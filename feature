@@ -1,1 +1,1 @@
-Conflict 1
+Add feature3 and feature4
